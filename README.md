@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://psargar616.github.io/My-Gallery-devchallenges/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Psargar616/My-Gallery-devchallenges">
       Solution
     </a>
     <span> | </span>
@@ -65,5 +65,5 @@ User story: I can see a page following the given design
 
 ## Contact
 
-- GitHub [@Psargar616](https://{github.com/your-usermame})
+- GitHub [@Psargar616](https://github.com/Psargar616)
 
